@@ -26,14 +26,14 @@ There are three primary roles in the Computer Lab organization: **Partner**, **M
 and **Guest**.
 
 A **Partner** owns a part of the Limited Liability Company that backs Computer
-Lab, Cloister Products LLC, and are something like the partners at a law firm.
-Partners recruit Lab members to work on various projects for clients.   A
-Partner can make deals on behalf of the company, and receives a portion of the
-overall profit of the company.  The profit of the company is periodically
-distributed to partners based on an "Eat What You Kill" formula that includes
-the business generated and managed by each partner, each partner's personal
-billable work, and other contributions as agreed on by the partners.  The
-partners are expected to create a satisfactory arrangement among themselves.
+Lab: Cloister Products LLC.  Partners recruit Lab members to work on various
+projects for clients.   A Partner can make deals on behalf of the company, and
+receives a portion of the overall profit of the company.  The profit of the
+company is periodically distributed to partners based on an "Eat What You Kill"
+formula that includes the business generated and managed by each partner, each
+partner's personal billable work, and other contributions as agreed on by the
+partners.  The partners are expected to create a satisfactory arrangement among
+themselves.
 
 A **Member** has full access to the Computer Lab Slack, GitHub, and other
 platforms where projects are discussed and executed.  They can choose to work on
