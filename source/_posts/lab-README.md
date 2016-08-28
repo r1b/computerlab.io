@@ -15,9 +15,10 @@ good starting point.
 
 ### What is Computer Lab?
 
-Computer Lab is an independent software development team that builds data-driven
-applications.  Lab exists because we want to advance the state of software
-development.  We want to write better software, for better reasons, .
+Computer Lab is an independent software development team.  We build systems for
+clients and for ourselves, and work to advance the practice of software
+development.  Our current focus is building data-driven web applications with
+rich user interfaces,.
 
 ### Organization and Roles
 
