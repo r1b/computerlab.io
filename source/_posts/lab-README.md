@@ -16,9 +16,9 @@ good starting point.
 ### What is Computer Lab?
 
 Computer Lab is an independent software development team.  We build systems for
-clients and for ourselves, and work to advance the practice of software
-development.  Our current focus is building data-driven web applications with
-rich user interfaces,.
+clients in a variety of industries while working to advance the practice of
+software development.  Our current focus is building data-driven web
+applications with rich user interfaces.
 
 ### Organization and Roles
 
@@ -80,9 +80,9 @@ the LLC as necessary or desired.
 - Linting: we ensure a common code style and eliminate bugs by using linters for
   Python and JavaScript.  We also lint React, specifically.  The linters are set
   to run during development to problems can be addressed while writing code.
-- Testing: testing is especially important because it allows us to refactor and
-  confidently deliver code to clients.  We test both our JavaScript and Python
-  code, and use Test-Driven Development for all important components.
+- Testing: testing allows us to refactor and confidently deliver code to
+  clients.  We test both our JavaScript and Python code, and use Test-Driven
+  Development for all important components.
 - For each project, we create and maintain appropriate development, QA, and
   production environments.  We make sure that this process is automated using
   Ansible.
